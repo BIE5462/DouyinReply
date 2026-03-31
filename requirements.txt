@@ -1,0 +1,4 @@
+requests
+playwright
+selenium
+PySide6
